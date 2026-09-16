@@ -1,13 +1,13 @@
-<h1 align="center">Hey there 👋 I'm Nobita</h1>
-<h3 align="center">Founder of <a href="https://nobitahost.in">NobitaHost</a> — free & fast hosting for everyone 🚀</h3>
+<h1 align="center">Hey there 👋 I'm CrySitter</h1>
+<h3 align="center">Founder of <a href="https://crysitter.org">CrySitter</a> — free & fast hosting for everyone 🚀</h3>
 
 <br>
 
-- 🔭 Building **NobitaHost** — a glassy Node.js hosting panel with Cloudflare integration
+- 🔭 Building **CrySitter** — a glassy Node.js hosting panel with Cloudflare integration
 - 🌐 Managing **40+ domains** & game server infrastructure
 - ⚡ Love **Node.js · Express · SQLite · EJS · Cloudflare APIs**
 - 🎮 Powering Minecraft & game server communities
-- 📫 Reach me: **nn8109239@gmail.com**
+- 📫 Reach me: **notrivu@gmail.com**
 
 <br>
 
@@ -37,9 +37,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nobita329&theme=tokyonight" height="180">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=notrivu.exe&theme=tokyonight" height="180">
 </p>
 
 <br>
 
-<h3 align="center">🌐 <a href="https://nobitahost.in">nobitahost.in</a> · Free cloud hosting, built with ❤️</h3>
+<h3 align="center">🌐 <a href="https://crysitter.org">crysitter.org</a> · Free cloud hosting, built with ❤️</h3>
